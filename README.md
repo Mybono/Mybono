@@ -14,9 +14,9 @@
 
 ### Certificates
 <br>
-
+<button>	
 ![Python. Basics](https://gb.ru/certificates/1321970.en)
-
+</button>	
 ![Interactive course on the basics of programming](https://github.com/Mybono/Mybono/blob/main/assets/2616585_1194591.en.pdf)
 
 ![Programming basics. Beginner](https://gb.ru/certificates/1194610.en)
@@ -28,8 +28,31 @@
 ![Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en)
 
 
-
-
 ### Work Expirience
 
 ### Follow me
+
+
+<style type="text/css"> 
+  button[name="run_script"] { 
+    border: none;
+    border-radius: 7px;
+    padding: 10px 25px;
+    background: #ff990#DED9D60;
+    cursor: pointer;
+    
+    font-weight: bold;
+    color: black;
+  }
+  button[name="run_script"]:hover { 
+    background: #D5CFCF;
+  } 
+
+
+</style>
+<button type="button" formaction="https://gb.ru/certificates/1194610.en" name="run_script">Python. Basics</button>
+
+<button type="button" name="run_script">Programming basics. Beginner</button>
+
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MyBono?style=for-the-badge">
