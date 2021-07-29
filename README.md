@@ -5,8 +5,7 @@
 ## Hello I'am qa injeneer!
 
 ### Languages and Tools
-![MySQL](https://img.shields.io/badge/-MySQL-787878?
-style=for-the-badge&logo=sql&logoColor=CAC5C2)
+![MySQL](https://img.shields.io/badge/-MySQL-787878?style=for-the-badge&logo=sql&logoColor=CAC5C2)
 ![ChromeDevTools](https://img.shields.io/badge/-Chrome Dev Tools-787878?
 style=for-the-badge&logo=devtools&logoColor=CAC5C2)
 ![GIT](https://img.shields.io/badge/-GIT-787878?
