@@ -13,7 +13,6 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-787878?style=for-the-badge&logo=Oracle&logoColor=CAC5C2)
 
 ### Certificates
-<br>
 
 ![Python. Basics](https://gb.ru/certificates/1321970.en)
 
@@ -26,6 +25,14 @@
 ![Linux. Administration of clients](https://gb.ru/certificates/1253910.en)
 
 ![Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en)
+
+</style>
+<button type="button" formaction="https://gb.ru/certificates/1194610.en" name="run_script">Python. Basics</button>
+
+<button type="button" name="run_script">Programming basics. Beginner</button>
+
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MyBono?style=for-the-badge">
 
 Work Expirience
 
