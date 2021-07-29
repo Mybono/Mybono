@@ -31,13 +31,13 @@ Python. Basics
 
 ![Programming basics. Beginner](https://gb.ru/certificates/1194610.en)
 
-<img align="left" alt="telegram" width="26px" src="https://yt3.ggpht.com/ytc/AAUvwngqZsMoyAEwhNCxOPbo1AJ4dR5ED833yTwv1m1hbw=s900-c-k-c0x00ffffff-no-rj" /> Git from A to Z
+<img align="left" alt="telegram" width="40px" src="https://yt3.ggpht.com/ytc/AAUvwngqZsMoyAEwhNCxOPbo1AJ4dR5ED833yTwv1m1hbw=s900-c-k-c0x00ffffff-no-rj" />] [Git from A to Z]
 
 ![Linux. Administration of clients](https://gb.ru/certificates/1253910.en)
 
 ![Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en)
 
-[gitfromatoz]: https://github.com/Mybono/Mybono/blob/main/assets/2616585_1239617.en.pdf
+[Git from A to Z]: https://github.com/Mybono/Mybono/blob/main/assets/2616585_1239617.en.pdf
 
 
 ### Work Expirience
