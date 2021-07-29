@@ -31,12 +31,13 @@ Python. Basics
 
 ![Programming basics. Beginner](https://gb.ru/certificates/1194610.en)
 
-![Git from A to Z](https://gb.ru/certificates/1239617.en)
+<img align="left" alt="telegram" width="26px" src="https://yt3.ggpht.com/ytc/AAUvwngqZsMoyAEwhNCxOPbo1AJ4dR5ED833yTwv1m1hbw=s900-c-k-c0x00ffffff-no-rj" /> Git from A to Z
 
 ![Linux. Administration of clients](https://gb.ru/certificates/1253910.en)
 
 ![Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en)
 
+[gitfromatoz]: https://github.com/Mybono/Mybono/blob/main/assets/2616585_1239617.en.pdf
 
 
 ### Work Expirience
@@ -45,9 +46,7 @@ Python. Basics
 ### You can contact me:
 
 [<img align="left" alt="Facebook" width="26px" src="https://image.flaticon.com/icons/png/512/733/733547.png" />] [facebook]
-
 [<img align="left" alt="telegram" width="26px" src="https://as2.ftcdn.net/v2/jpg/01/39/21/49/1000_F_139214952_wr40rpRjdLYqMXP4x3oCPbZgMMMvRUOE.jpg" />] [telegram]
-
 [<img align="left" alt="telegram" width="26px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />] [linkedin]
 
 
