@@ -51,7 +51,6 @@
 
 </style>
 <button type="button" formaction="https://gb.ru/certificates/1194610.en" name="run_script">Python. Basics</button>
-
 <button type="button" name="run_script">Programming basics. Beginner</button>
 
 <br>
