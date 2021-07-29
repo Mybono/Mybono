@@ -22,7 +22,10 @@
 
 ### Certificates
 <br>
-![Python. Basics](https://gb.ru/certificates/1321970.en)
+<img align="left" alt="Python. Basics" width="50px" src="https://yt3.ggpht.com/ytc/AAUvwngqZsMoyAEwhNCxOPbo1AJ4dR5ED833yTwv1m1hbw=s900-c-k-c0x00ffffff-no-rj" />   
+Python. Basics
+
+<br>
 
 ![Interactive course on the basics of programming](https://github.com/Mybono/Mybono/blob/main/assets/2616585_1194591.en.pdf)
 
@@ -35,31 +38,23 @@
 ![Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en)
 
 
+
 ### Work Expirience
+
+
+### You can contact me:
+
+[<img align="left" alt="Facebook" width="26px" src="https://image.flaticon.com/icons/png/512/733/733547.png" />] [facebook]
+
+[<img align="left" alt="telegram" width="26px" src="https://as2.ftcdn.net/v2/jpg/01/39/21/49/1000_F_139214952_wr40rpRjdLYqMXP4x3oCPbZgMMMvRUOE.jpg" />] [telegram]
+
+[<img align="left" alt="telegram" width="26px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />] [linkedin]
+
 
 ### Follow me
 
-
-<style type="text/css"> 
-  button[name="run_script"] { 
-    border: none;
-    border-radius: 7px;
-    padding: 10px 25px;
-    background: #ff990#DED9D60;
-    cursor: pointer;
-    
-    font-weight: bold;
-    color: black;
-  }
-  button[name="run_script"]:hover { 
-    background: #D5CFCF;
-  } 
-
-
-</style>
-<button type="button" formaction="https://gb.ru/certificates/1194610.en" name="run_script">Python. Basics</button>
-
-<button type="button" name="run_script">Programming basics. Beginner</button>
-
-<br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MyBono?style=for-the-badge">
+
+[facebook]: https://www.facebook.com/artur.benagraph/
+[telegram]: https://t.me/Benagraph
+[linkedin]: http://linkedin.com/def-say-hello
