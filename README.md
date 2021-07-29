@@ -12,6 +12,9 @@
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-787878?style=for-the-badge&logo=VirtualBox&logoColor=CAC5C2)
 ![Oracle](https://img.shields.io/badge/-Oracle-787878?style=for-the-badge&logo=Oracle&logoColor=CAC5C2)
 
+### Certificates
+![Interactive course on the basics of programming](https://github.com/Mybono/Mybono/blob/main/assets/2616585_1194591.en.pdf)
+
 Work Expirience
 
 Follow me
