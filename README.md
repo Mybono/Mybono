@@ -34,7 +34,7 @@
 
 ## Certificates
 
-[Completed the course «Python. Basics»](https://gb.ru/certificates/1321970.en)
++ [Completed the course «Python. Basics»](https://gb.ru/certificates/1321970.en)
 
 [Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en)
 
