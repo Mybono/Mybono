@@ -64,11 +64,17 @@ IELTS 2018
 [<img align="left" alt="telegram" width="26px" src="https://as2.ftcdn.net/v2/jpg/01/39/21/49/1000_F_139214952_wr40rpRjdLYqMXP4x3oCPbZgMMMvRUOE.jpg" />] [telegram]
 [<img align="left" alt="telegram" width="26px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />] [linkedin]
 
-[facebook]: https://www.facebook.com/artur.benagraph/
-[telegram]: https://t.me/Benagraph
-[linkedin]: http://linkedin.com/def-say-hello
+<code>
+[![facebook][logofacebook]][facebook]
 
-[![linkedin](https://github.com/Mybono/Mybono/blob/main/assets/linkedin.png)(http://linkedin.com/def-say-hello)
+[facebook]: https://www.facebook.com/artur.benagraph/
+[logofacebook]: https://github.com/Mybono/Mybono/blob/main/assets/fb%2035px.png
+[telegram]: https://t.me/Benagraph
+[logotelegram]: https://github.com/Mybono/Mybono/blob/main/assets/telegran%2035%20px.jpg
+[linkedin]: http://linkedin.com/def-say-hello
+[logolinkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linedin%2035px.png
+[linkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linkedin.png "LinkedIn"
+</code>
 
 ### Follow me
 
