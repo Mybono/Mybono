@@ -2,7 +2,7 @@
 
 [](https://github.com/Mybono/Mybono/blob/main/assets/ab5398cf5eee70433c1fe2cd7ff299e7.jpg)
 
-## Hello I'am a qa injeneer!
+## Hello I'am a junior qa injeneer! I 
 
 
 ## Languages and Tools
