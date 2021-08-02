@@ -36,31 +36,31 @@
 
 + [Completed the course «Python. Basics»](https://gb.ru/certificates/1321970.en)
 
-[Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en)
++ [Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en)
 
-[Completed the course «Git from A to Z»](https://gb.ru/certificates/1239617.en)
++ [Completed the course «Git from A to Z»](https://gb.ru/certificates/1239617.en)
 
-[Interactive course on the basics of programming](https://github.com/Mybono/Mybono/blob/main/assets/2616585_1194591.en.pdf)
++ [Interactive course on the basics of programming](https://github.com/Mybono/Mybono/blob/main/assets/2616585_1194591.en.pdf)
 
-[Programming basics. Beginner](https://gb.ru/certificates/1194610.en)
++ [Programming basics. Beginner](https://gb.ru/certificates/1194610.en)
 
-[Linux. Administration of clients](https://gb.ru/certificates/1253910.en)
++ [Linux. Administration of clients](https://gb.ru/certificates/1253910.en)
 
-[QA software tester / Fundamentals of Software Testing](https://github.com/Mybono/Mybono/blob/main/assets/qa%20tester.pdf)
++ [QA software tester / Fundamentals of Software Testing](https://github.com/Mybono/Mybono/blob/main/assets/qa%20tester.pdf)
 
-[SQL course](https://www.sololearn.com/Certificate/1060-19199048/pdf/)
++ [SQL course](https://www.sololearn.com/Certificate/1060-19199048/pdf/)
 
-[HTML course](https://www.sololearn.com/Certificate/1014-19199048/pdf/)
++ [HTML course](https://www.sololearn.com/Certificate/1014-19199048/pdf/)
 
-[CSS course](https://www.sololearn.com/Certificate/1023-19199048/pdf/)
++ [CSS course](https://www.sololearn.com/Certificate/1023-19199048/pdf/)
 
-[JavaScript course](https://www.sololearn.com/Certificate/1024-19199048/pdf/)
++ [JavaScript course](https://www.sololearn.com/Certificate/1024-19199048/pdf/)
 
-[jQuery course](https://www.sololearn.com/Certificate/1082-19199048/pdf/)
++ [jQuery course](https://www.sololearn.com/Certificate/1082-19199048/pdf/)
 
-[QA.  Preparation for ISTQB certification](https://stepik.org/certificate/540a0919a43451db758ffc86c36b4587414889fe.pdf)
++ [QA.  Preparation for ISTQB certification](https://stepik.org/certificate/540a0919a43451db758ffc86c36b4587414889fe.pdf)
 
-IELTS 2018
++ IELTS 2018
 
 
 [gitfromatoz]: https://github.com/Mybono/Mybono/blob/main/assets/2616585_1239617.en.pdf
