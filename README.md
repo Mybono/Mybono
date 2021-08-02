@@ -46,6 +46,8 @@
 
 [Linux. Administration of clients](https://gb.ru/certificates/1253910.en)
 
+[QA software tester / Fundamentals of Software Testing](https://github.com/Mybono/Mybono/blob/main/assets/qa%20tester.pdf)
+
 [SQL course](https://www.sololearn.com/Certificate/1060-19199048/pdf/)
 
 [HTML course](https://www.sololearn.com/Certificate/1014-19199048/pdf/)
