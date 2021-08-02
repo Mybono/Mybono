@@ -64,7 +64,7 @@ IELTS 2018
 [<img align="left" alt="telegram" width="26px" src="https://as2.ftcdn.net/v2/jpg/01/39/21/49/1000_F_139214952_wr40rpRjdLYqMXP4x3oCPbZgMMMvRUOE.jpg" />] [telegram]
 [<img align="left" alt="telegram" width="26px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />] [linkedin]
 
-<code>
+
 [![facebook][logofacebook]][facebook]
 
 [facebook]: https://www.facebook.com/artur.benagraph/
@@ -74,7 +74,7 @@ IELTS 2018
 [linkedin]: http://linkedin.com/def-say-hello
 [logolinkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linedin%2035px.png
 [linkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linkedin.png "LinkedIn"
-</code>
+
 
 ### Follow me
 
