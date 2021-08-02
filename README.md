@@ -68,7 +68,7 @@ IELTS 2018
 [telegram]: https://t.me/Benagraph
 [linkedin]: http://linkedin.com/def-say-hello
 
-
+[![linkedin](https://github.com/Mybono/Mybono/blob/main/assets/linkedin.png)(http://linkedin.com/def-say-hello)
 
 ### Follow me
 
