@@ -90,7 +90,7 @@
 [facebook]: https://www.facebook.com/artur.benagraph/
 [logofacebook]: https://github.com/Mybono/Mybono/blob/main/assets/fb%2035px.png
 [telegram]: https://t.me/Benagraph
-[logotelegram]: https://github.com/Mybono/Mybono/blob/main/assets/telegran%2035%20px.jpg
+[logotelegram]: https://github.com/Mybono/Mybono/blob/main/assets/telegran%2035%20px.png
 [linkedin]: http://linkedin.com/def-say-hello
 [logolinkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linedin%2035px.png
 [linkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linkedin.png
