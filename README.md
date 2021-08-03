@@ -86,7 +86,7 @@
 [![Skype][logoSkype]][Skype]
 
 [Skype]: https://msng.link/o/?polishuc=sk
-[logoSkype]: 
+[logoSkype]: https://github.com/Mybono/Mybono/blob/main/assets/m_skype.png
 [facebook]: https://www.facebook.com/artur.benagraph/
 [logofacebook]: https://github.com/Mybono/Mybono/blob/main/assets/fb%2035px.png
 [telegram]: https://t.me/Benagraph
