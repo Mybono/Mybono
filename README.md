@@ -93,3 +93,7 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MyBono?style=for-the-badge">
 
+```text
+python main.py -m README.MD -s style.html -p README.pdf -d ./ -f Roboto-Regular.ttf
+```
+
