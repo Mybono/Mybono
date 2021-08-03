@@ -83,7 +83,10 @@
 [![facebook][logofacebook]][facebook]
 [![telegram][logotelegram]][telegram]
 [![linkedin][logolinkedin]][linkedin]
+[![Skype][logoSkype]][Skype]
 
+[Skype]: https://msng.link/o/?polishuc=sk
+[logoSkype]: 
 [facebook]: https://www.facebook.com/artur.benagraph/
 [logofacebook]: https://github.com/Mybono/Mybono/blob/main/assets/fb%2035px.png
 [telegram]: https://t.me/Benagraph
