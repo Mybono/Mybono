@@ -1,4 +1,4 @@
-![](https://github.com/Mybono/Mybono/blob/main/assets/47272134728d3af531c1c.jpg "Artur Polischuk")
+![](https://github.com/Mybono/Mybono/blob/main/assets/wp.jpg "Artur Polischuk")
 
 ## Hello I Am a junior qa engineer!
 
