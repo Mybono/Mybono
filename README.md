@@ -1,5 +1,5 @@
 
-![](https://github.com/Mybono/Mybono/blob/main/assets/wp.png)
+![](https://github.com/Mybono/Mybono/blob/main/assets/wp.png "Artur Polischuk")
 
 ## Hello I Am a junior qa engineer!
 
