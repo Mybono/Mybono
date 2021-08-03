@@ -34,6 +34,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-787878?style=for-the-badge&logo=HTML&logoColor=FFD041)
 ![CSS](https://img.shields.io/badge/-CSS-787878?style=for-the-badge&logo=CSS&logoColor=FFD041)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-787878?style=for-the-badge&logo=JavaScript&logoColor=000000)
+![PyCharm](https://img.shields.io/badge/-PyCharm-787878?style=for-the-badge&logo=PyCharm&logoColor=000000)
 
 ******
 
