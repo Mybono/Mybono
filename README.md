@@ -2,7 +2,8 @@
 
 # Hey! Nice to see you.
 ## Welcome to my page! I'm Artur a software tester!
-<br>
+
+
 С университета я был влюблен в IT, но жизнь связала меня с качеством и оптимизацией.
 На текущем месте работы занимаюсь оптимизацией бизнес процессов – внедряю проекты бережливого производства на своем предприятии, ищу и исправляю "баги".
 Вот несколько разработанных мной и утвержденных по моей инициативе проектов:
@@ -17,8 +18,9 @@
 
 
 
-<br>***Люблю качественные процессы, ведущие к предсказуемым результатам.***
-
+***Люблю качественные процессы, ведущие к предсказуемым результатам.***
+&nbsp;
+&nbsp;
 ******
 
 ## Languages and Tools
@@ -39,7 +41,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-787878?style=for-the-badge&logo=VisualStudioCode&logoColor=25AEF3)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-787878?style=for-the-badge&logo=GitKraken&logoColor=21FFCB)
 
-
+&nbsp;
 ******
 
 ## Certificates
@@ -75,16 +77,20 @@
 
 [gitfromatoz]: https://github.com/Mybono/Mybono/blob/main/assets/2616585_1239617.en.pdf
 
-
+&nbsp;
 ******
 
 ### You can contact me:
-<br>
+
+
 
 [![facebook][logofacebook]][facebook]
 [![telegram][logotelegram]][telegram]
 [![linkedin][logolinkedin]][linkedin]
 [![Skype][logoSkype]][Skype]
+
+<g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
+ **Any freelance work? do reach, <a href="mailto:besttest2you@gmail.com">email**</a> :)
 
 [Skype]: https://msng.link/o/?polishuc=sk
 [logoSkype]: https://github.com/Mybono/Mybono/blob/main/assets/skype%2035.png
@@ -105,6 +111,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mybono.Mybono.id)
 <br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/MyBono?style=for-the-badge">
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/MyBono?style=for-the-badge"> -->
 
-
+<a class="github-button" href="https://github.com/Mybono" data-color-scheme="no-preference: dark; light: dark; dark: light;" data-size="large" aria-label="Follow @Mybono on GitHub">Follow @Mybono</a>
