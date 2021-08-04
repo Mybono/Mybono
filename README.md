@@ -1,7 +1,8 @@
 ![](https://github.com/Mybono/Mybono/blob/main/assets/wp.jpg "Artur Polischuk")
 
-## Hello, I'm a junior software tester!
-
+# Hey! Nice to see you.
+## Welcome to my page! I'm Artur a software tester!
+<br>
 С университета я был влюблен в IT, но жизнь связала меня с качеством и оптимизацией.
 На текущем месте работы занимаюсь оптимизацией бизнес процессов – внедряю проекты бережливого производства на своем предприятии, ищу и исправляю "баги".
 Вот несколько разработанных мной и утвержденных по моей инициативе проектов:
@@ -96,6 +97,14 @@
 [linkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linkedin.png
 
 
-### Follow me
+<br>
+<br>
+<br>
+<br>
+<br>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mybono.Mybono.id)
+<br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MyBono?style=for-the-badge">
+
+
