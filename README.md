@@ -91,7 +91,7 @@
 [![Skype][logoSkype]][Skype]
 
 <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
- **Any freelance work? do reach, <a href="mailto:besttest2you@gmail.com">email**</a> :)
+ **Any freelance work? do reach, <a href="mailto:stringmymail@gmail.com">email**</a> :)
 
 [Skype]: https://msng.link/o/?polishuc=sk
 [logoSkype]: https://github.com/Mybono/Mybono/blob/main/assets/skype%2035.png
