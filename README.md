@@ -97,7 +97,7 @@
 [logoSkype]: https://github.com/Mybono/Mybono/blob/main/assets/skype%2035.png
 [facebook]: https://www.facebook.com/artur.benagraph/
 [logofacebook]: https://github.com/Mybono/Mybono/blob/main/assets/fb%2035px.png
-[telegram]: https://t.me/Benagraph
+[telegram]: https://t.me/def4fun
 [logotelegram]: https://github.com/Mybono/Mybono/blob/main/assets/telegran%2035%20px.png
 [linkedin]: http://linkedin.com/def-say-hello
 [logolinkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linedin%2035px.png
