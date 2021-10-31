@@ -41,11 +41,13 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-787878?style=for-the-badge&logo=PyCharm&logoColor=FCF84A)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-787878?style=for-the-badge&logo=VisualStudioCode&logoColor=25AEF3)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-787878?style=for-the-badge&logo=GitKraken&logoColor=21FFCB)
+![JAVA](https://img.shields.io/badge/-GitKraken-787878?style=for-the-badge&logo=GitKraken&logoColor=21FFCB)
 
 &nbsp;
 ******
 
 ## Certificates
++ [Completed the course «Java. Beginner»](https://gb.ru/certificates/1449651.en)
 
 + [Completed the course «Python. Basics»](https://gb.ru/certificates/1321970.en)
 
