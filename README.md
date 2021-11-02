@@ -79,6 +79,8 @@
 
 + [QA.  Preparation for ISTQB certification](https://stepik.org/certificate/540a0919a43451db758ffc86c36b4587414889fe.pdf)
 
++ [Successfully passed the test «English language. Intermediate»](https://gb.ru/certificates/1237063.en)
+
 + IELTS 2018
 
 
