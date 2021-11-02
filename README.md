@@ -48,7 +48,7 @@
 
 ## Certificates
 
-+ [Completed the course «Java. Beginner»](https://gb.ru/certificates/1449664.en) | [Successfully passed the test «Java. Beginner»](https://gb.ru/certificates/1449651.en) |
++ [Completed the course «Java. Beginner»](https://gb.ru/certificates/1449664.en) 
 
 + [Successfully passed the test «Java. Beginner»](https://gb.ru/certificates/1449651.en)
 
