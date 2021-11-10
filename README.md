@@ -18,7 +18,12 @@
 
 
 
-***Люблю качественные процессы, ведущие к предсказуемым результатам.***
+
+
+***"Those who are not free thinkers cannot be responsible software testers. In RST methodology we call unfree thinkers who help test “supporting testers” 
+and expect them to do no important work unless under active supervision. A robot– or human pretending to be a robot– is not self-managing."***
+                                                                                                                      ***James Bach ***
+
 &nbsp;
 &nbsp;
 ******
