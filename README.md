@@ -47,6 +47,9 @@
 ******
 
 ## Certificates
++ [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en)
+
++ [Successfully passed the test «English language. Upper-intermediate»](https://gb.ru/certificates/1466945.en)
 
 + [Completed the course «Java. Beginner»](https://gb.ru/certificates/1449664.en) 
 
@@ -78,9 +81,7 @@
 
 + [jQuery course](https://www.sololearn.com/Certificate/1082-19199048/pdf/)
 
-+ [QA.  Preparation for ISTQB certification](https://stepik.org/certificate/540a0919a43451db758ffc86c36b4587414889fe.pdf)
-
-+ [Successfully passed the test «English language. Intermediate»](https://gb.ru/certificates/1237063.en)
++ [QA. Preparation for ISTQB certification](https://stepik.org/certificate/540a0919a43451db758ffc86c36b4587414889fe.pdf)
 
 + IELTS 2018
 
