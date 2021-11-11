@@ -58,11 +58,10 @@ and expect them to do no important work unless under active supervision. A robot
 |:---:|:---:|
 | [Completed the course «Java. Beginner»](https://gb.ru/certificates/1449664.en) | [Successfully passed the test «Java. Beginner»](https://gb.ru/certificates/1449651.en) |
 | [Completed the course «Python. Basics»](https://gb.ru/certificates/1321970.en) | [Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en) |
-| [Completed the course «Linux. Administration of clients»](https://gb.ru/certificates/1253910.en)| [Successfully passed the test
-«Linux. First level»](https://gb.ru/certificates/1456393.en) |
+| [Completed the course «Linux. Administration of clients»](https://gb.ru/certificates/1253910.en) | [Successfully passed the test «Linux. First level»](https://gb.ru/certificates/1456393.en) |
 | [SQL course](https://www.sololearn.com/Certificate/1060-19199048/pdf/) | [Successfully passed the test «DataBase MySql»](https://gb.ru/certificates/1478757.en) |
 | [Completed the course «Git from A to Z»](https://gb.ru/certificates/1239617.en) | [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
-| [HTML course](https://www.sololearn.com/Certificate/1014-19199048/pdf/) | [Successfully passed the test «HTML&CSS. Beginner»](https://gb.ru/certificates/1478811.en) |
+| [HTML course](https://www.sololearn.com/Certificate/1014-19199048/pdf/) | [Successfully passed the test «HTML&CSS. Beginner»](https://gb.ru/certificates/1478811.en)  |
 | [Interactive course on the basics of programming](https://github.com/Mybono/Mybono/blob/main/assets/2616585_1194591.en.pdf) | [Successfully passed the test «Programming basics. Beginner»](https://gb.ru/certificates/1194610.en) |
 | [QA software tester / Fundamentals of Software Testing](https://github.com/Mybono/Mybono/blob/main/assets/qa%20tester.pdf) | [Successfully passed the test
 «Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
