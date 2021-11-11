@@ -79,7 +79,6 @@ and expect them to do no important work unless under active supervision. A robot
 ### You can contact me:
 
 
-
 [![facebook][logofacebook]][facebook]
 [![telegram][logotelegram]][telegram]
 [![linkedin][logolinkedin]][linkedin]
