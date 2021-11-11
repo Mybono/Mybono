@@ -53,10 +53,11 @@ and expect them to do no important work unless under active supervision. A robot
 ******
 
 ## Certificates
-| Curses | Tests |
+
+| Courses | Tests |
 |:......:|:.....:|
-| | |
-| | |
+| [Completed the course «Java. Beginner»](https://gb.ru/certificates/1449664.en) | [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
+| | [Successfully passed the test «DataBase MySql»](https://gb.ru/certificates/1478757.en) |
 
 + [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en)
 
