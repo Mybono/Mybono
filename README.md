@@ -63,12 +63,11 @@ and expect them to do no important work unless under active supervision. A robot
 | [Completed the course «Git from A to Z»](https://gb.ru/certificates/1239617.en) | [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
 | [HTML course](https://www.sololearn.com/Certificate/1014-19199048/pdf/) | [Successfully passed the test «HTML&CSS. Beginner»](https://gb.ru/certificates/1478811.en)  |
 | [Interactive course on the basics of programming](https://github.com/Mybono/Mybono/blob/main/assets/2616585_1194591.en.pdf) | [Successfully passed the test «Programming basics. Beginner»](https://gb.ru/certificates/1194610.en) |
-| [QA software tester / Fundamentals of Software Testing](https://github.com/Mybono/Mybono/blob/main/assets/qa%20tester.pdf) | [Successfully passed the test
-«Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
+| [QA software tester / Fundamentals of Software Testing](https://github.com/Mybono/Mybono/blob/main/assets/qa%20tester.pdf) | [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
 | | [QA. Preparation for ISTQB certification](https://stepik.org/certificate/540a0919a43451db758ffc86c36b4587414889fe.pdf) |
-| | [JavaScript course](https://www.sololearn.com/Certificate/1024-19199048/pdf/) |
-| | [jQuery course](https://www.sololearn.com/Certificate/1082-19199048/pdf/) |
-| | [CSS course](https://www.sololearn.com/Certificate/1023-19199048/pdf/) |
+| [JavaScript course](https://www.sololearn.com/Certificate/1024-19199048/pdf/) | |
+| [jQuery course](https://www.sololearn.com/Certificate/1082-19199048/pdf/) | |
+| [CSS course](https://www.sololearn.com/Certificate/1023-19199048/pdf/) | |
 | IELTS 2018 | [Successfully passed the test «English language. Upper-intermediate»](https://gb.ru/certificates/1466945.en) |
 
 
