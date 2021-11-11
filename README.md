@@ -57,6 +57,8 @@ and expect them to do no important work unless under active supervision. A robot
 
 + [Successfully passed the test «DataBase MySql»](https://gb.ru/certificates/1478757.en)
 
++ [Successfully passed the test «HTML&CSS. Beginner»](https://gb.ru/certificates/1478811.en)
+
 + [Successfully passed the test «English language. Upper-intermediate»](https://gb.ru/certificates/1466945.en)
 
 + [Completed the course «Java. Beginner»](https://gb.ru/certificates/1449664.en) 
