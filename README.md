@@ -24,8 +24,9 @@ and expect them to do no important work unless under active supervision. A robot
 &nbsp;
 ******
 ## Work Experience
-InAppStory
-Software QA Test Engineer 01.2022 - Present
+### InAppStory
+Software QA Test Engineer 
+01.2022 - Present
 
 - End-to-End auto testing, JavaScript, CodeCeptJs
 - web testing;
@@ -36,8 +37,9 @@ Software QA Test Engineer 01.2022 - Present
 - user-stories;
 - test cases;
 
-StudyRoom
-Software QA Test Engineer 09.2021 - 01.2022
+### StudyRoom
+Software QA Test Engineer
+09.2021 - 01.2022
 One click webinar. Platform for organizing webinars.
 
 - black box, gray box testing;
@@ -50,8 +52,9 @@ One click webinar. Platform for organizing webinars.
 - database testing;
 - work in Postman, Jira, Trello, MySQL Workbench 8.0 CE, Chrome Dev Tools;
 
-Upwork
-Software QA Engineer 2020 -  2021 
+### Upwork
+Software QA Engineer 
+2020 -  2021 
 
 - black box testing;
 - web and android app testing;
@@ -61,8 +64,9 @@ Software QA Engineer 2020 -  2021 
 - functional, manual testing;
 - work in Charles Proxy, Chrome Dev Tools;
 
-uTest
-QA Test Engineer 2020 - 2021
+### uTest
+QA Test Engineer 
+2020 - 2021
 
 - black box testing;
 - web and android app testing;
