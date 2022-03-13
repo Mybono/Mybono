@@ -12,19 +12,6 @@ src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-С университета я был влюблен в IT, но жизнь связала меня с качеством и оптимизацией.
-На текущем месте работы занимаюсь оптимизацией бизнес процессов – внедряю проекты бережливого производства на своем предприятии, ищу и исправляю "баги".
-Вот несколько разработанных мной и утвержденных по моей инициативе проектов:
-+ **Оптимизация учет и хранение металлической продукции.** Внедрение системы учета остатков металла с последующим применением данной системы на производстве.
-+ **Равномерное распределение работ в отделе снабжения.** Разработка программы, позволяющей эффективно распределять работу в отделе снабжения. Программа информирует о загруженности сотрудников, помогает распределять работу, позволяет сотрудникам работать в команде, правильно расставлять приоритеты и отслеживать процессы закупок на всех этапах.
-+ **Оптимизация закупок инструмента для производства.** В проект входит: организация оперативного склада выдачи, проведение конкурса по выбору поставщика с большим складом, оперативной доставкой, отсрочкой платежа.
-
-Мне нравится развиваться и обучаться новому, вот некоторые из моих последних обучений:
-+ На текущем месте работы я выиграл конкурс на прохождение обучения “Тренер бережливого производства”, закончил его с отличием и как результат успешно внедрил выше упомянутые проекты. В 2020 г. был выбран как самый инициативный сотрудник, в связи с чем была опубликована моя статья в корпоративном журнале на тему бережливого производства.
-+ За последние несколько лет поднял свой уровень английского языка и сдал международный экзамен IELTS на 5,5 баллов (B2).
-+ Получил рад сертификатов по результатам обучения в IT сфере и принял решение развиваться в тестировании ПО. На мой взгляд, в тестировании органично сочетаются мои навыки в оптимизации, внимания к мелочам и возможности к саморазвитию. 
-
-
 
 
 
@@ -36,7 +23,54 @@ and expect them to do no important work unless under active supervision. A robot
 &nbsp;
 &nbsp;
 ******
+## Work Experience
+InAppStory
+Software QA Test Engineer 01.2022 - Present
 
+- End-to-End auto testing, JavaScript, CodeCeptJs
+- web testing;
+- mobile testing;
+- testing frontend, backend;
+- integration testing;
+- creation of test documentation;
+- user-stories;
+- test cases;
+
+StudyRoom
+Software QA Test Engineer 09.2021 - 01.2022
+One click webinar. Platform for organizing webinars.
+
+- black box, gray box testing;
+- web testing;
+- work on checklists;
+- UI/GUI testing;
+- negative / positive testing;
+- functional, integration, system, manual testing;
+- API testing;
+- database testing;
+- work in Postman, Jira, Trello, MySQL Workbench 8.0 CE, Chrome Dev Tools;
+
+Upwork
+Software QA Engineer 2020 -  2021 
+
+- black box testing;
+- web and android app testing;
+- work on the checklist;
+- UI/GUI testing;
+- negative / positive testing;
+- functional, manual testing;
+- work in Charles Proxy, Chrome Dev Tools;
+
+uTest
+QA Test Engineer 2020 - 2021
+
+- black box testing;
+- web and android app testing;
+- work on the checklist;
+- UI/GUI testing;
+- negative / positive testing;
+- functional, manual testing;
+- work in Charles Proxy, Chrome Dev Tools;
 
 ## Languages and Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-787878?style=for-the-badge&logo=mysql&logoColor=014E58)
