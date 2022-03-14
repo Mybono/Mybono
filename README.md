@@ -24,9 +24,9 @@ and expect them to do no important work unless under active supervision. A robot
 &nbsp;
 ******
 ## Work Experience
-### InAppStory
+### [InAppStory](https://inappstory.com/)
 Software QA Test Engineer 
-01.2022 - Present
+<br> 01.2022 - Present
 
 - End-to-End auto testing, JavaScript, CodeCeptJs
 - web testing;
@@ -37,9 +37,9 @@ Software QA Test Engineer
 - user-stories;
 - test cases;
 
-### StudyRoom
+### [StudyRoom](https://roomstudy.ru/)
 Software QA Test Engineer
-09.2021 - 01.2022
+<br> 09.2021 - 01.2022
 One click webinar. Platform for organizing webinars.
 
 - black box, gray box testing;
