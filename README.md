@@ -13,6 +13,7 @@ src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 
+###        People often ask me why testing? For me, this is an opportunity to provide a quality product. A deep understanding of business processes helps me a lot. Creativity, exact calculation, or effective scripting is all about testing.
 
 
 ***"Those who are not free thinkers cannot be responsible software testers. In RST methodology we call unfree thinkers who help test “supporting testers” 
