@@ -25,9 +25,8 @@ and expect them to do no important work unless under active supervision. A robot
 ******
 ## Work Experience
 ### [InAppStory](https://inappstory.com/)
-***Mobile App Stories Tool for Business
-
-Software QA Test Engineer 
+***Mobile App Stories Tool for Business***
+<br> Software test automation engineer
 <br> 01.2022 - Present
 
 - End-to-End auto testing, JavaScript, CodeCeptJs
@@ -40,9 +39,9 @@ Software QA Test Engineer
 - test cases;
 
 ### [StudyRoom](https://roomstudy.ru/)
-Software QA Test Engineer
+***One click webinar. Platform for organizing webinars.***
+<br> Software test engineer
 <br> 09.2021 - 01.2022
-One click webinar. Platform for organizing webinars.
 
 - black box, gray box testing;
 - web testing;
@@ -51,24 +50,12 @@ One click webinar. Platform for organizing webinars.
 - negative / positive testing;
 - functional, integration, system, manual testing;
 - API testing;
-- database testing;
 - work in Postman, Jira, Trello, MySQL Workbench 8.0 CE, Chrome Dev Tools;
 
-### Upwork
-Software QA Engineer 
-2020 -  2021 
-
-- black box testing;
-- web and android app testing;
-- work on the checklist;
-- UI/GUI testing;
-- negative / positive testing;
-- functional, manual testing;
-- work in Charles Proxy, Chrome Dev Tools;
-
-### uTest
-QA Test Engineer 
-2020 - 2021
+### [uTest](www.utest.com)
+Crowd testing service
+<br> Manual test engineer
+<br> 2020 - 2021
 
 - black box testing;
 - web and android app testing;
