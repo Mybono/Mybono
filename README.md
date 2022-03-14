@@ -25,6 +25,8 @@ and expect them to do no important work unless under active supervision. A robot
 ******
 ## Work Experience
 ### [InAppStory](https://inappstory.com/)
+***Mobile App Stories Tool for Business
+
 Software QA Test Engineer 
 <br> 01.2022 - Present
 
