@@ -145,9 +145,4 @@ Crowd testing service
 <br>
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/MyBono?style=for-the-badge"> -->
 
-<a class="github-button" href="https://github.com/Mybono" data-color-scheme="no-preference: dark; light: dark; dark: light;" data-size="large" aria-label="Follow @Mybono on GitHub">Follow @Mybono</a>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Mybono/Mybono" data-icon="octicon-star" aria-label="Star Mybono/Mybono on GitHub">Star</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Mybono" data-color-scheme="no-preference: dark_high_contrast; light: dark; dark: light;" aria-label="Follow @Mybono on GitHub">Follow @Mybono</a>
+
