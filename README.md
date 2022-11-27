@@ -28,7 +28,7 @@ and expect them to do no important work unless under active supervision. A robot
 ### [InAppStory](https://inappstory.com/)
 ***Mobile App Stories Tool for Business***
 <br> Software test automation engineer / Fulltime
-<br> 01.2020 - Present
+<br> 2020 - Present
 
 - End-to-End auto testing, JavaScript, CodeCeptJs
 - web testing;
@@ -42,7 +42,7 @@ and expect them to do no important work unless under active supervision. A robot
 ### [StudyRoom](https://roomstudy.ru/)
 ***One click webinar. Platform for organizing webinars.***
 <br> Software test engineer / Parttime
-<br> 07.2019 - 01.2020
+<br> 2019 - 2020
 
 - black box, gray box testing;
 - web testing;
@@ -56,7 +56,7 @@ and expect them to do no important work unless under active supervision. A robot
 ### [uTest](www.utest.com)
 Crowd testing service
 <br> Manual test engineer / Freelance
-<br> 2020 - 2021
+<br> 2018 - 2019
 
 - black box testing;
 - web and android app testing;
