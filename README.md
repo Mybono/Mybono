@@ -25,10 +25,20 @@ and expect them to do no important work unless under active supervision. A robot
 &nbsp;
 ******
 ## Work Experience
+### [Honeycomb Insurance](https://honeycombinsurance.com/)
+***Real Estate Insurance***
+<br> QA Automation Test Engineer / Fulltime
+<br> 2023 - Present
+
+- Responsible for developing unit tests, integration tests, API & E2E UI tests
+- Test documentation creation (STP, STD) using Confluence
+- Experience with Kubernetes and setting up CI/CD pipelines
+- Collaborate with cross-functional teams to ensure high-quality software delivery
+- 
 ### [InAppStory](https://inappstory.com/)
 ***Mobile App Stories Tool for Business***
 <br> Software test automation engineer / Fulltime
-<br> 2020 - Present
+<br> 2020 - 2023
 
 - End-to-End auto testing, JavaScript, CodeCeptJs
 - web testing;
