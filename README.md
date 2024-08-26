@@ -34,7 +34,7 @@ and expect them to do no important work unless under active supervision. A robot
 - Test documentation creation (STP, STD) using Confluence
 - Experience with Kubernetes and setting up CI/CD pipelines
 - Collaborate with cross-functional teams to ensure high-quality software delivery
-- 
+  
 ### [InAppStory](https://inappstory.com/)
 ***Mobile App Stories Tool for Business***
 <br> Software test automation engineer / Fulltime
