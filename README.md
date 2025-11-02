@@ -8,7 +8,7 @@ src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses
   </a>
 </h1>
 
-## Welcome to my page! I'm Artur a software tester!  <img src="https://emojis.slackmojis.com/emojis/images/1614005222/14336/debug.png?1614005222" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">
+## Welcome to my page! I'm Artur a QA Automation Engineer!  <img src="https://emojis.slackmojis.com/emojis/images/1614005222/14336/debug.png?1614005222" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
@@ -30,51 +30,42 @@ and expect them to do no important work unless under active supervision. A robot
 <br> QA Automation Test Engineer / Fulltime
 <br> 2023 - Present
 
-- Responsible for developing unit tests, integration tests, API & E2E UI tests
-- Test documentation creation (STP, STD) using Confluence
-- Experience with Kubernetes and setting up CI/CD pipelines
-- Collaborate with cross-functional teams to ensure high-quality software delivery
-  
+- Designed and implemented test automation infrastructure from scratch using Playwright
+and TypeScript, achieving comprehensive coverage of UI (end-to-end) and API flows.
+- Automated 80% of regression scenarios, reducing manual testing time from 1 day to 2 hours per release.
+- Increased automation coverage from 0% → 70% in 4 months across 6 core microservices.
+- Built a shared testing library used by multiple QA repositories, standardizing test patterns and improving code reuse by 30%.
+- Integrated automation into GitLab CI/CD, enabling auto-triggered parallel test runs on Kubernetes environments.
+- Collaborated with developers and DevOps to identify flakiness causes and improved E2E test stability to 95% pass rate.
+- Authored and maintained structured test documentation (STP/STD) improving QA transparency and team onboarding.
+- Defined the company’s test automation strategy, aligning test coverage with release goals and integrating quality metrics into CI dashboards.
+- Drove cross-functional collaboration with DevOps, backend, and product teams to ensure quality gates and continuous feedback loops in every sprint.
+
+
 ### [InAppStory](https://inappstory.com/)
 ***Mobile App Stories Tool for Business***
 <br> Software test automation engineer / Fulltime
 <br> 2020 - 2023
 
-- End-to-End auto testing, JavaScript, CodeCeptJs
-- web testing;
-- mobile testing;
-- testing frontend, backend;
-- integration testing;
-- creation of test documentation;
-- user-stories;
-- test cases;
+- Built test automation infrastructure from scratch using Playwright and CodeceptJS (JS/TS), introducing test automation into the development cycle.
+- Automated core UI and API flows for the web platform and mobile apps, reducing release verification time by 60%.
+- Developed integration and unit tests using Mocha/Chai, helping engineers detect regressions early in the CI process.
+- Created mind maps and structured test documentation (STP, STD) to formalize QA processes and improve transparency across teams.
+- Tested mobile interactive content and mini-games on real Android devices and emulators, ensuring performance stability and cross-platform consistency
+- Partnered with developers to integrate automation into the existing CI workflow, increasing build reliability and confidence in new releases.
+
 
 ### [StudyRoom](https://roomstudy.ru/)
 ***One click webinar. Platform for organizing webinars.***
 <br> Software test engineer / Parttime
 <br> 2019 - 2020
 
-- black box, gray box testing;
-- web testing;
-- work on checklists;
-- UI/GUI testing;
-- negative / positive testing;
-- functional, integration, system, manual testing;
-- API testing;
-- work in Postman, Jira, Trello, MySQL Workbench 8.0 CE, Chrome Dev Tools;
+- Developed automated API tests covering 80+ endpoints.
+- Conducted cross-browser testing (Chrome, Firefox, Safari), reducing regression cycles by 25%.
+- Managed a small QA team, tracked tasks and bugs in Jira, improving feature release predictability.
+- Participated in functional, integration, and regression testing, reporting actionable defects to engineering.
+- Created and standardized test documentation (STP/STD), formalizing QA processes across projects.
 
-### [uTest](www.utest.com)
-Crowd testing service
-<br> Manual test engineer / Freelance
-<br> 2018 - 2019
-
-- black box testing;
-- web and android app testing;
-- work on the checklist;
-- UI/GUI testing;
-- negative / positive testing;
-- functional, manual testing;
-- work in Charles Proxy, Chrome Dev Tools;
 
 ## Languages and Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-787878?style=for-the-badge&logo=mysql&logoColor=014E58)
@@ -102,15 +93,15 @@ Crowd testing service
 
 |Courses|Tests|
 |:---:|:---:|
-| [Completed the course «Java. Beginner»](https://gb.ru/certificates/1449664.en) | [Successfully passed the test «Java. Beginner»](https://gb.ru/certificates/1449651.en) |
-| [Completed the course «Python. Basics»](https://gb.ru/certificates/1321970.en) | [Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en) |
-| [Completed the course «Linux. Administration of clients»](https://gb.ru/certificates/1253910.en) | [Successfully passed the test «Linux. First level»](https://gb.ru/certificates/1456393.en) |
-| [SQL course](https://www.sololearn.com/Certificate/1060-19199048/pdf/) | [Successfully passed the test «DataBase MySql»](https://gb.ru/certificates/1478757.en) |
-| [Completed the course «Git from A to Z»](https://gb.ru/certificates/1239617.en) | [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
-| [HTML course](https://www.sololearn.com/Certificate/1014-19199048/pdf/) | [Successfully passed the test «HTML&CSS. Beginner»](https://gb.ru/certificates/1478811.en)  |
-| [Interactive course on the basics of programming](https://github.com/Mybono/Mybono/blob/main/assets/2616585_1194591.en.pdf) | [Successfully passed the test «Programming basics. Beginner»](https://gb.ru/certificates/1194610.en) |
-| [QA software tester / Fundamentals of Software Testing](https://github.com/Mybono/Mybono/blob/main/assets/qa%20tester.pdf) | [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
-| | [QA. Preparation for ISTQB certification](https://stepik.org/certificate/540a0919a43451db758ffc86c36b4587414889fe.pdf) |
+|  [Modern TypeScript](https://www.udemy.com/certificate/UC-8aa0406c-a7cc-4f27-8046-92066418748c/) | [Successfully passed the test «Java. Beginner»](https://gb.ru/certificates/1449651.en) |
+| [Completed the course «Java. Beginner»](https://gb.ru/certificates/1449664.en) | [Successfully passed the test «Python.Beginner»](https://gb.ru/certificates/1322003.en) |
+| [Completed the course «Python. Basics»](https://gb.ru/certificates/1321970.en) | [Successfully passed the test «Linux. First level»](https://gb.ru/certificates/1456393.en) |
+| [Completed the course «Linux. Administration of clients»](https://gb.ru/certificates/1253910.en) | [Successfully passed the test «DataBase MySql»](https://gb.ru/certificates/1478757.en) |
+| [SQL course](https://www.sololearn.com/Certificate/1060-19199048/pdf/)  | [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
+| [Completed the course «Git from A to Z»](https://gb.ru/certificates/1239617.en) | [Successfully passed the test «HTML&CSS. Beginner»](https://gb.ru/certificates/1478811.en)  |
+| [HTML course](https://www.sololearn.com/Certificate/1014-19199048/pdf/)  | [Successfully passed the test «Programming basics. Beginner»](https://gb.ru/certificates/1194610.en) |
+| [Interactive course on the basics of programming](https://github.com/Mybono/Mybono/blob/main/assets/2616585_1194591.en.pdf) | [Successfully passed the test «Testing. Level 1»](https://gb.ru/certificates/1476238.en) |
+| [QA software tester / Fundamentals of Software Testing](https://github.com/Mybono/Mybono/blob/main/assets/qa%20tester.pdf) | [QA. Preparation for ISTQB certification](https://stepik.org/certificate/540a0919a43451db758ffc86c36b4587414889fe.pdf) |
 | [JavaScript course](https://www.sololearn.com/Certificate/1024-19199048/pdf/) | |
 | [jQuery course](https://www.sololearn.com/Certificate/1082-19199048/pdf/) | |
 | [CSS course](https://www.sololearn.com/Certificate/1023-19199048/pdf/) | |
@@ -123,7 +114,6 @@ Crowd testing service
 ******
 
 ### You can contact me:
-
 
 [![facebook][logofacebook]][facebook]
 [![telegram][logotelegram]][telegram]
