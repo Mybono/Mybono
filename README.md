@@ -50,6 +50,8 @@ Passionate about clean, maintainable code and effective tooling for complex proj
 ### [Simple MakeUp Price Calculator](https://lets-makeup.netlify.app/)  
 🎨 Web calculator for makeup services — demonstrates frontend, interactive forms, and dynamic pricing logic.  
 
+### <a href="https://t.me/hadashot_live" target="_blank" rel="noopener noreferrer">Hadashot Live Telegram Channel</a>  
+📰 Aggregator of the most important news in Israel from over 20 leading news agencies, delivering updates in real time.
 </p>
 
 ---
