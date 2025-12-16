@@ -37,17 +37,17 @@ Passionate about clean, maintainable code and effective tooling for complex proj
 
 <p align="left">
 
-### <a href="https://github.com/Mybono/qa-portfolio" target="_blank" rel="noopener noreferrer">QA Portfolio</a>  
+### [QA Portfolio](https://github.com/Mybono/qa-portfolio)  
 💻 Full test automation framework with UI & API tests, Dockerized environment, and CI/CD integration.  
 
 ---
 
-### <a href="https://www.npmjs.com/package/pr-checkmate" target="_blank" rel="noopener noreferrer">PR CheckMate</a>  
+### [PR CheckMate](https://www.npmjs.com/package/pr-checkmate)  
 🛠️ NPM package for automated PR checks, streamlining code review and CI processes.  
 
 ---
 
-### <a href="https://lets-makeup.netlify.app/" target="_blank" rel="noopener noreferrer">Simple MakeUp Price Calculator</a>  
+### [Simple MakeUp Price Calculator](https://lets-makeup.netlify.app/)  
 🎨 Web calculator for makeup services — demonstrates frontend, interactive forms, and dynamic pricing logic.  
 
 </p>
