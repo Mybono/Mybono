@@ -17,7 +17,7 @@ Passionate about clean, maintainable code and effective tooling for complex proj
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="left">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -33,39 +33,28 @@ Passionate about clean, maintainable code and effective tooling for complex proj
 
 ---
 
-## 📂 Projects
+## Projects
 
 <p align="left">
 
-### [QA Portfolio](https://github.com/Mybono/qa-portfolio)  
-💻 Full test automation framework with UI & API tests, Dockerized environment, and CI/CD integration.  
-
----
-
 ### [PR CheckMate](https://www.npmjs.com/package/pr-checkmate)  
-🛠️ NPM package for automated PR checks, streamlining code review and CI processes.  
+NPM package for automated PR checks, streamlining code review and CI processes.  
 
 ---
 
 ### [Simple MakeUp Price Calculator](https://lets-makeup.netlify.app/)  
-🎨 Web calculator for makeup services — demonstrates frontend, interactive forms, and dynamic pricing logic.  
+Web calculator for makeup services — demonstrates frontend, interactive forms, and dynamic pricing logic.  
 
 ---
 
 ### <a href="https://t.me/hadashot_live" target="_blank" rel="noopener noreferrer">Hadashot Live Telegram Channel</a>  
-📰 Aggregator of the most important news in Israel from over 20 leading news agencies, delivering updates in real time.
+Aggregator of the most important news in Israel from over 20 leading news agencies, delivering updates in real time.
 
 ---
 
-### [Todo App Automation](https://github.com/Mybono/todo-app-automation)  
-📱 End-to-end mobile automation for a native Android Todo application using Appium and TypeScript.  
+### [AI Orchestrator](https://github.com/Mybono/ai-orchestrator)  
+Multi-agent coding assistant that orchestrates specialized AI agents through a plan → code → review pipeline. Helps automate everyday development tasks like implementation, code review, debugging, and commits.
 
----
-
-### [AI Gmail Spam Cleaner](https://github.com/Mybono/AIGmailSpamCleaner)  
-🤖 Intelligent Google Apps Script using AI to automatically detect and remove spam and promotional emails from a Gmail inbox.  
-
-</p>
 
 ---
 ## 📫 Connect with Me
